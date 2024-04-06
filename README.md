@@ -1,13 +1,13 @@
-# 💫 About Me!
-💻 Full Stack Software Engineer currently based in 🇨🇦
-📖 Bachelor's Degree in MIS, graduate studies in IT Project Management
-🎖️ Professional Scrum Mater certified from Scrum.org (PSM 1)
-🤖 Formerly xda-developers Recognized Themer & custom Android ROM/Mods developer for Sony Xperia devices
-🎯 Always looking to hop on a new challenge and learn more
+# 💫 About Me! <br>
+💻 Full Stack Software Engineer currently based in 🇨🇦 <br>
+📖 Bachelor's Degree in MIS, graduate studies in IT Project Management <br>
+🎖️ Professional Scrum Mater certified from Scrum.org (PSM 1) <br>
+🤖 Formerly xda-developers Recognized Themer & custom Android ROM/Mods developer for Sony Xperia devices <br>
+🎯 Always looking to hop on a new challenge and learn more <br> <br>
+ 
 
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_omarjawhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/omar-jawhar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Romanviann) 
 
 # 💻 Tech Stack:
