@@ -3,7 +3,7 @@
 📖 Bachelor's Degree in MIS, graduate studies in IT Project Management <br>
 🎖️ Professional Scrum Mater certified from Scrum.org (PSM 1) <br>
 🤖 Formerly xda-developers Recognized Themer & custom Android ROM/Mods developer for Sony Xperia devices <br>
-🎯 Always looking to hop on a new challenge and learn more <br> <br>
+🎯 Never Settle <br> <br>
  
 
 
