@@ -1,8 +1,7 @@
-# 💫 About Me! <br>
+# 💫 About Me <br>
 💻 Full Stack Software Engineer currently based in 🇨🇦 <br>
-📖 Bachelor's Degree in MIS, graduate studies in IT Project Management <br>
+📖 Bachelor's Degree in MIS <br>
 🎖️ Professional Scrum Master certified from Scrum.org (PSM 1) <br>
-🤖 Formerly xda-developers Recognized Themer & custom Android ROM/Mods developer for Sony Xperia devices <br>
 🎯 Never Settle <br> <br>
  
 
